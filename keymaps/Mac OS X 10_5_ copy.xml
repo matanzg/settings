@@ -5,6 +5,10 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id="Console.History.Browse" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta subtract" />
   </action>
@@ -14,6 +18,7 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta numpad0" />
   </action>
+  <action id="PerforceDirect.Edit" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
