@@ -50,9 +50,7 @@
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
       <entry key="Default">
         <PlaceSettings />
