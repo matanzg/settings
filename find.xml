@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,8 +18,11 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
-      <mask>*</mask>
       <mask>*.json</mask>
+      <mask>*mdjson</mask>
+      <mask>*md</mask>
+      <mask>*</mask>
+      <mask>*.md</mask>
     </recentFileMasks>
   </component>
 </application>
