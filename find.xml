@@ -1,21 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!md" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
-      <mask>*.json</mask>
       <mask>*mdjson</mask>
       <mask>*md</mask>
       <mask>*</mask>
@@ -39,6 +33,11 @@
       <mask>1</mask>
       <mask>!</mask>
       <mask>!md</mask>
+      <mask>j</mask>
+      <mask>json</mask>
+      <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.js*</mask>
     </recentFileMasks>
   </component>
 </application>
