@@ -8,9 +8,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.html</mask>
-      <mask>*mdjson</mask>
       <mask>*md</mask>
       <mask>*</mask>
       <mask>*.sa</mask>
@@ -36,8 +33,11 @@
       <mask>*.js*</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
-      <mask>*.</mask>
       <mask>*.md</mask>
+      <mask>*.m</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
