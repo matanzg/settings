@@ -1,0 +1,11 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <instances>
+      <instance uuid="c57f3185-768f-4ce1-9ed4-50bfcd37d33d" baseUri="https://bitbucket.org/" />
+      <instance uuid="1c768c38-6342-46ac-b371-010c97585c86" baseUri="https://bitbucket.org/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.org" port="-1" uuid="c57f3185-768f-4ce1-9ed4-50bfcd37d33d" />
+    </lookup>
+  </component>
+</application>
