@@ -5,10 +5,8 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.sa</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
       <mask>sas</mask>
       <mask>sa</mask>
       <mask>s</mask>
@@ -34,8 +32,11 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
