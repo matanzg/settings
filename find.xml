@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>json</mask>
       <mask>*.js*</mask>
@@ -12,8 +13,6 @@
       <mask>*.md</mask>
       <mask>*.m</mask>
       <mask>*.json</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -29,13 +28,15 @@
       <mask>session</mask>
       <mask>session.</mask>
       <mask>session.js</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.s</mask>
-      <mask>*.sa</mask>
-      <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
