@@ -2,40 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>json</mask>
-      <mask>*.js*</mask>
-      <mask>*.js</mask>
-      <mask>*.md</mask>
-      <mask>*.m</mask>
-      <mask>*.json</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.c</mask>
-      <mask>*.cp</mask>
-      <mask>*.cpp</mask>
-      <mask>se</mask>
-      <mask>ses</mask>
-      <mask>sessio</mask>
-      <mask>session</mask>
-      <mask>session.</mask>
-      <mask>session.js</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.s</mask>
-      <mask>*.sass</mask>
-      <mask>*.sas</mask>
-      <mask>*.sa</mask>
-      <mask>*.</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-    </recentFileMasks>
   </component>
 </application>
