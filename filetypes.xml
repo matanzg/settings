@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="PlacementSessionNotificationsManager" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="eps" type="SVG" />
     </extensionMap>
   </component>
 </application>
