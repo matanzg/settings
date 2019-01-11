@@ -8,5 +8,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
-  <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
