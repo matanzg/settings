@@ -15,7 +15,7 @@
     <mask>*.json</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.md</mask>
+    <mask>*.js</mask>
   </component>
 </application>
