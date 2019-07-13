@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Convert template string to use visible line separators" />
+    <ignoreAction name="JavaScript/Convert anonymous function to named function" />
   </component>
 </application>
